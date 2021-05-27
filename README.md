@@ -17,5 +17,23 @@
 
 
 
+### Level 2
+
+- programmers2_SQL DATETIME에서 DATE로 형 변환
+- programmers2_SQL NULL 처리하기
+- programmers2_SQL 고양이와 개는 몇 마리 있을까
+- programmers2_SQL 동명 동물 수 찾기
+- programmers2_SQL 동물 수 구하기
+- programmers2_SQL 루시와 엘라 찾기
+- programmers2_SQL 이름에 el이 들어가는 동물 찾기
+- programmers2_SQL 입양 시각 구하기(1)
+- programmers2_SQL 중복 제거하기
+- programmers2_SQL 중성화 여부 파악하기
+- programmers2_SQL 최솟값 구하기
+
+
+
+
+
 
 
